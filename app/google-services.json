@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "345874645752",
+    "firebase_url": "https://amansejahteraapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "amansejahteraapp",
+    "storage_bucket": "amansejahteraapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345874645752:android:d6bbd7bdcb352686ce310d",
+        "android_client_info": {
+          "package_name": "com.pemogramanmobile2.amanbersamaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdIb63EERAQT2fLpevWgjJlNY0PHfDoOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
